@@ -28,3 +28,16 @@ task/
 │ └── PhotoGallery.js
 ├── package.json
 └── README.md
+
+
+---
+
+## 📸 Screenshots
+(Add screenshots of your task list UI here once ready.)
+
+---
+
+## ⚡ How to Run
+1. Clone the repository:
+   ```bash
+  
